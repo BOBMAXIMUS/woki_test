@@ -1,0 +1,9 @@
+{
+  "appTitle": "Flutter Article App",
+  "settings": "Settings",
+  "darkMode": "Dark Mode",
+  "articles": "Articles",
+  "noArticles": "No Articles",
+  "failedToFetch": "Failed to fetch articles",
+  "changeLanguage": "Change language"
+}

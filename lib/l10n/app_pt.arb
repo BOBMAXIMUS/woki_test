@@ -1,0 +1,9 @@
+{
+  "appTitle": "Aplicativo Flutter Articles",
+  "settings": "Configurações",
+  "darkMode": "Modo Escuro",
+  "articles": "Artigos",
+  "noArticles": "Sem artigos",
+  "failedToFetch": "Falha ao buscar itens",
+  "changeLanguage": "Alterar idioma"
+}
